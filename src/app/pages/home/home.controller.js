@@ -72,6 +72,11 @@
       sizeY: 2
     };
 
+    // var x = $('dashboard-calendar');
+    // x.fullCalendar('refetchEvents');
+
+    // angular.element('dashboard-calendar').fullCalendar('refetchEvents');
+    // angular.element('dashboard-calendar').fullCalendar('rerenderEvents');
   }
 
 })();
